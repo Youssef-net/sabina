@@ -1,0 +1,53 @@
+body {
+  font-family: 'Caveat', cursive;
+  background: #fff0f5;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+header, footer {
+  background-color: #ffb6c1;
+  text-align: center;
+  padding: 20px;
+  border-bottom: 4px dotted #fff;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+.hero, .timeline, .age-counter {
+  padding: 30px;
+  text-align: center;
+}
+
+.hero img {
+  width: 200px;
+  border-radius: 50%;
+  border: 5px solid #fff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.event {
+  background: #ffe4e1;
+  margin: 10px auto;
+  padding: 15px;
+  max-width: 500px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+}
+
+nav {
+  text-align: center;
+  padding: 15px;
+  background: #ffeef5;
+  font-size: 1.2em;
+}
+
+nav a {
+  color: #d63384;
+  text-decoration: none;
+  margin: 0 10px;
+}
